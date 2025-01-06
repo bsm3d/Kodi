@@ -104,4 +104,3 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. USE AT YOUR OWN
 
 ## 🌐 More Information
 - Author Website: http://www.bsm3d.com
-- Project Repository: [[GitHub Link]](https://github.com/bsm3d/Kodi/tree/main/addons/plugin.video.bsm3d.archive.
