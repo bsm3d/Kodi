@@ -6,13 +6,17 @@
 - **Compatibility**: Kodi 21+ (Omega)
 - **License**: GNU General Public License v2.0
 
-## 🌟 Key Features
+## Overview
+A robust Kodi addon for browsing and streaming content from the Internet Archive, featuring advanced security and performance optimizations.
 
-### Advanced Content Exploration
-- Comprehensive browsing of Internet Archive collections
-- Multi-media support (Video and Audio)
-- Intelligent search across diverse content types
+## 🌟 Key Features
+### Content Exploration
+- Comprehensive browsing video and audio Archive collections
+- Intelligent Search across multiple media types
+- French and international content
 - Robust content filtering system
+- Favorites management
+- Playback history
 
 ### 🔒 Enhanced Content Security
 #### Intelligent Content Filtering
