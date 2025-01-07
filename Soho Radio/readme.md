@@ -1,4 +1,5 @@
 # Soho Radio - Kodi Addon
+![SohoRadio_BSM3d_fanart](https://github.com/user-attachments/assets/d79fb7e3-260e-4918-b24f-b90d870e8c50)
 
 ## Project Details
 
