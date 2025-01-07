@@ -15,15 +15,15 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
   - Multi-media support
   - Robust search capabilities
 
-## 📦 Regular Addon Installation
+## 📦 Manual Installation
 
-### Method 1: Direct Download
+### Direct Download
 1. Download the desired addon ZIP file
 2. In Kodi: Settings → Add-ons
 3. Select "Install from zip file"
 4. Choose the downloaded addon ZIP
 
-### Method 2: Repository Installation
+### Repository Installation
 *Coming soon*
 
 ## 🛠️ Development Philosophy
