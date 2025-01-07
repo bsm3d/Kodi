@@ -10,10 +10,22 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
 - **Version**: 1.0.0
 - **Description**: A powerful addon for exploring and streaming content from the Internet Archive
 - **Key Features**:
-  - Comprehensive media browsing
-  - Advanced content filtering
-  - Multi-media support
-  - Robust search capabilities
+  - Video and Audio Collection Browsing
+  - Advanced Search Functionality
+  - Multiple Content Categories
+  - French Content Sections
+  - Favorites Management
+  - Playback History
+  - Comprehensive Content Filtering
+
+ ### Soho Radio
+- **Version**: 1.0.0
+- **Description**: A dedicated Kodi addon for streaming Soho Radio live broadcasts
+- **Key Features**:
+  - High-quality audio streaming (320KB and 128KB options)
+  - Simple and intuitive interface
+  - One-click play functionality
+  - Customizable stream URLs through settings
 
 ## 📦 Manual Installation
 
