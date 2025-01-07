@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="Streams">
+       <setting id="quality" type="enum" label="Stream Quality" values="128 KB|320 KB" default="1" />
+       <setting id="retry_attempts" type="number" label="Connection Retry Attempts" default="3" />
+       <setting id="stream_url_128" type="text" label="128 KB URL" default="https://sohoradiomusic.doughunt.co.uk:8010/128mp3" />
+       <setting id="stream_url_320" type="text" label="320 KB URL" default="https://sohoradiomusic.doughunt.co.uk:8010/320mp3" />
+   </category>
+   <category label="Advanced">
+       <setting id="buffer_size" type="number" label="Buffer Size (KB)" default="32" />
+       <setting id="connection_timeout" type="number" label="Connection Timeout (seconds)" default="30" />
+   </category>
+</settings>
