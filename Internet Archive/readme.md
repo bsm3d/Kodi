@@ -28,15 +28,8 @@ Dive into the world's largest digital library with the Internet Archive Browser.
 - Active Internet Connection
 - Optional: script.module.requests
 
-## Installation
+## Manual Installation
 
-### Method 1: Kodi Repository
-1. Open Kodi
-2. Navigate to Add-ons > Download
-3. Search for "Internet Archive Browser"
-4. Click Install
-
-### Method 2: Manual Installation
 1. Download addon ZIP
 2. Kodi > Settings > Add-ons
 3. Choose "Install from ZIP file"
