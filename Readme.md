@@ -41,8 +41,4 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
 ## ⚖️ Licensing
 All addons are released under the GNU General Public License v2.0
 
-## 📞 Contact
-- **Author**: Benoit (BSM3D) Saint-Moulin
-- **Website**: http://www.bsm3d.com
-
 *Developed with ❤️ for the Kodi community*
