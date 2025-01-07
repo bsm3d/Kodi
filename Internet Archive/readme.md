@@ -1,4 +1,5 @@
 # Internet Archive Browser - Kodi Addon
+![Internet_Archive_BSM3D_fanart](https://github.com/user-attachments/assets/ba70864e-df7e-4fb9-bdbe-3c6ac05effaf)
 
 ## Project Details
 
