@@ -25,6 +25,7 @@ Soho Radio Kodi Addon brings the vibrant sounds of Soho Radio directly to your K
 - Optional: script.module.requests (v2.22.0+)
 
 ## Manual Installation
+
 1. Download addon ZIP
 2. Kodi > Settings > Add-ons
 3. Choose "Install from ZIP file"
