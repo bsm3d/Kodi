@@ -15,7 +15,7 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
   - Multi-media support
   - Robust search capabilities
 
-## 📦 Installation
+## 📦 Regular Addon Installation
 
 ### Method 1: Direct Download
 1. Download the desired addon ZIP file
@@ -36,7 +36,6 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
 ## 🤝 Contributing
 - Bug reports welcome
 - Feature suggestions appreciated
-- Pull requests are encouraged
 
 ## ⚖️ Licensing
 All addons are released under the GNU General Public License v2.0
