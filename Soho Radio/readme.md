@@ -1,4 +1,4 @@
-# Soho Radio Kodi Addon
+# Soho Radio - Kodi Addon
 
 ## Project Details
 
