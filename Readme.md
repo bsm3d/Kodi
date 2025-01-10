@@ -1,6 +1,6 @@
-# BSM3D Kodi Addons Repository
+# BSM3D Kodi Addons Collection
 
-## Welcome to My Kodi Addon Collection
+## Welcome
 
 This repository is dedicated to custom Kodi addons developed to enhance your media streaming and browsing experience. Each addon is carefully crafted to provide unique functionality, performance, and user-friendly interfaces.
 
