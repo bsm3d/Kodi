@@ -1,10 +1,10 @@
 # BSM3D Kodi Addons Repository
 
-## 🎬 Welcome to My Kodi Addon Collection
+## Welcome to My Kodi Addon Collection
 
 This repository is dedicated to custom Kodi addons developed to enhance your media streaming and browsing experience. Each addon is carefully crafted to provide unique functionality, performance, and user-friendly interfaces.
 
-## 🚀 Current Addons
+## Current Addons
 
 ### Internet Archive Browser
 - **Version**: 1.0.0
@@ -27,7 +27,7 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
   - One-click play functionality
   - Customizable stream URLs through settings
 
-## 📦 Manual Installation
+## Installation
 
 ### Direct Download
 1. Download the desired addon ZIP file
@@ -36,20 +36,20 @@ This repository is dedicated to custom Kodi addons developed to enhance your med
 4. Choose the downloaded addon ZIP
 
 ### Repository Installation
-*Coming soon*
+You can grab the GitHub URL to install it.
 
-## 🛠️ Development Philosophy
+## Development Philosophy
 - Open-source
 - User-centric design
 - Performance optimization
 - Regular updates
 - Comprehensive documentation
 
-## 🤝 Contributing
+## Contributing
 - Bug reports welcome
 - Feature suggestions appreciated
 
-## ⚖️ Licensing
+## Licensing
 All addons are released under the GNU General Public License v2.0
 
 *Developed with ❤️ for the Kodi community*
